@@ -4,3 +4,4 @@ bs4
 scikit-learn
 imagesize
 tqdm
+git+https://github.com/facebookresearch/detectron2.git
